@@ -1,1 +1,2 @@
 # COS201-ZIPPORAH-COURSE-MANAGEMENT
+This is a school project
